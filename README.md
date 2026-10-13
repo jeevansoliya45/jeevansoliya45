@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ::: {align="center"}
 ```{=html}
 <!-- Animated hero: only this top section animates -->
